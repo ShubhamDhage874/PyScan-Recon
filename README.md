@@ -156,7 +156,7 @@ python pyscan.py -t 192.168.1.50 -p top -o results.json
 **Shubham Dhage**  
 - 🎓 **Master of Computer Applications (MCA)** — *Yashaswi Education Society's International Institute of Management Science (IIMS), Pune* (Affiliated to Savitribai Phule Pune University - SPPU)
 - 🛡️ **Cyber Security & SOC Defense Practitioner**
-- 🌐 **Portfolio**: [https://peppy-khapse-60d4b1.netlify.app/](https://peppy-khapse-60d4b1.netlify.app/) *(or your portfolio domain)*
+- 🌐 **Portfolio**: [https://peppy-khapse-60d4b1.netlify.app/](https://peppy-khapse-60d4b1.netlify.app/) *( portfolio domain)*
 - 🐙 **GitHub**: [@ShubhamDhage874](https://github.com/ShubhamDhage874)
 - 💼 **LinkedIn**: [Shubham Dhage](https://www.linkedin.com/in/shubham-dhage-28a26429a)
 
